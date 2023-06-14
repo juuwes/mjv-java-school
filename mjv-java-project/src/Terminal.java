@@ -1,19 +1,15 @@
-import java.util.List;
+import java.time.LocalDate;
 
 public class Terminal {
     public static void main(String[] args) {
-        ContaCorrente conta1 = new ContaCorrente();
-        System.out.println(conta1.saldo);
-        boolean sacou = conta1.sacar(50);
-        if (sacou)
-            System.out.println(conta1.saldo);
-        else
-            System.out.println("Saldo insuficiente");
 
-        List<Transacao> transacoes = conta1.transacoes;
+        // CADASTRO DE CLIENTES
+        Cliente cliente1 = new Cliente("Rosa", LocalDate.of(1963, 01, 23));
+        Conta conta1 = new Conta (cliente1, "253", "25696-8");
+        conta1.depositar(1000.0);
 
-        for (Transacao transacao : transacoes) {
-            System.out.println(transacao.descricao + " " + transacao.valor);
-        }
+        // Testando os métodos:
+        conta1.sacar(100.0);
+        System.out.println(conta1.consultarSaldo());
     }
 }
