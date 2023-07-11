@@ -1,7 +1,7 @@
 <h1 align="center">Contrata.me - Projeto Final da MJV School Java</h1>
 
-### Tecnologias e Ferramentas ⚙️
-______________________________________________
+## Tecnologias e Ferramentas ⚙️
+
 O projeto foi desenvolvido em Java, utilizando _Spring Boot Framework_. Foi utilizado Spring Data JPA para implementar a camada de persistência dos dados e o banco de dados MySQL.
 
 **Linguagem:** Java (_versão: 11_)
@@ -12,6 +12,24 @@ O projeto foi desenvolvido em Java, utilizando _Spring Boot Framework_. Foi util
 
 **Banco de Dados:** MySQL
 
-### Diagrama UML 📝
-______________________________________________
+## Diagrama UML 📝
 
+## Estrutura 📁
+
+- configs
+- DTOs
+- enums
+- exceptions
+- models
+- repositories
+- resources
+- services
+
+## Colaboradores 👨‍💻
+
+- <a href="https://github.com/EriksonsSilva"> Erikson Silva </a>
+- <a href="https://github.com/JonathanZapotosczny"> Jonathan Zapotosczny </a>
+- <a href="https://github.com/Juuwes"> Juliana Gonçalves </a>
+- <a href="https://github.com/JulioDinis"> Julio Dinis </a>
+- <a href="https://github.com/KaylaDeodato"> Kayla Deodato </a>
+- <a href="https://github.com/VictorAlmeida98"> Victor Almeida </a>
