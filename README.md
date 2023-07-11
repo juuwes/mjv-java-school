@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/juuwes/mjv-java-school/assets/93749428/487b1a36-7b9f-4c1d-b21a-e9cef316c37d" alt="Sublime's custom image" width="380"/>
+</p>
+
 <h1 align="center">Contrata.me - Projeto Final da MJV School Java</h1>
 
 ## Tecnologias e Ferramentas ⚙️
