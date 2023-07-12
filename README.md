@@ -4,19 +4,20 @@
 
 <h1 align="center">CONTRATE.me - Projeto Final da MJV School Java</h1>
 
-Uma plataforma destinada ao armazenamento de dados pessoais e profissionais, listando suas experiências e habilidades, auxiliando o processo de recrutamento e seleção de uma empresa da área de tecnologia.
+<p align="justify"> <b>CONTRATE.me</b> é uma plataforma que simplifica o recrutamento e seleção de talentos na área de tecnologia. É um repositório centralizado onde profissionais podem armazenar suas informações pessoais e profissionais, destacando suas experiências e habilidades. As empresas podem usar a plataforma para encontrar candidatos qualificados, realizando pesquisas avançadas e entrando em contato diretamente com os profissionais. É uma solução eficiente para conectar talentos e oportunidades de emprego na indústria de tecnologia. </p>
 
 ## Tecnologias e Ferramentas ⚙️
 
-O projeto foi desenvolvido em Java, utilizando _Spring Boot Framework_. Foi utilizado Spring Data JPA para implementar a camada de persistência dos dados e o banco de dados MySQL.
+<p align="justify"> O projeto foi desenvolvido em Java, utilizando <i>Spring Boot Framework</i>. Foi utilizado <i>Spring Data JPA</i> para implementar a camada de persistência dos dados e o banco de dados MySQL.
 
-**Linguagem:** Java (_versão: 11_)
+**Linguagem:** Java (<i>versão: 11</i>)
 
-**Framework:** Spring Boot (_versão: 2.7.9_)
+**Framework:** Spring Boot (<i>versão: 2.7.9</i>)
       
-- _Dependencias do Spring_ : DataJPA | Validation |  Starter WEB | DevTools | Lombok | MySQL | Swagger | ModelMapper
+- <i>Dependencias do Spring</i> : DataJPA | Validation |  Starter WEB | DevTools | Lombok | MySQL | Swagger | ModelMapper
 
 **Banco de Dados:** MySQL
+</p>
 
 ## Diagrama UML 📝
 
