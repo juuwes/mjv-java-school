@@ -8,7 +8,7 @@
 
 ## Tecnologias e Ferramentas ⚙️
 
-<p align="justify"> O projeto foi desenvolvido em Java, utilizando <i>Spring Boot Framework</i>. Foi utilizado <i>Spring Data JPA</i> para implementar a camada de persistência dos dados e o banco de dados MySQL.
+<p align="justify"> O projeto foi desenvolvido em Java, utilizando <i>Spring Boot Framework</i>. Foi utilizado Spring Data JPA para implementar a camada de persistência de dados e o banco de dados MySQL.
 
 **Linguagem:** Java (<i>versão: 11</i>)
 
