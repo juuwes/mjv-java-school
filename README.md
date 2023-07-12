@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/juuwes/mjv-java-school/assets/93749428/03cedbfe-f645-416a-b00c-a887fc3ba274" alt="Sublime's custom image" width="400"/>
+  <img src="https://github.com/juuwes/mjv-java-school/assets/93749428/2717ad8f-53e4-47e5-9425-72f2fc1bfbb0" alt="Sublime's custom image" width="400"/>
 </p>
 
 <h1 align="center">Contrata.me - Projeto Final da MJV School Java</h1>
