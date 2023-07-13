@@ -48,6 +48,7 @@ E está acompanhada de uma documentação detalhada no <i>Swagger</i>, que pode 
 ## Colaboradores 💻
 
 - <a href="https://github.com/EriksonsSilva"> Erikson Silva </a>
+- <a href="https://github.com/fabiopenha"> Fábio Penha </a>
 - <a href="https://github.com/JonathanZapotosczny"> Jonathan Zapotosczny </a>
 - <a href="https://github.com/Juuwes"> Juliana Gonçalves </a>
 - <a href="https://github.com/JulioDinis"> Julio Dinis </a>
