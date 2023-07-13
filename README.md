@@ -6,6 +6,13 @@
 
 <p align="justify"> <b>CONTRATE.me</b> é uma plataforma que simplifica o recrutamento e seleção de talentos na área de tecnologia. É um repositório centralizado onde profissionais podem armazenar suas informações pessoais e profissionais, destacando suas experiências e habilidades. As empresas podem usar a plataforma para encontrar candidatos qualificados, realizando pesquisas avançadas e entrando em contato diretamente com os profissionais. É uma solução eficiente para conectar talentos e oportunidades de emprego na indústria de tecnologia. </p>
 
+## Como utilizar 🚀
+
+A API foi hospedada com sucesso na plataforma ---, e seu <i>endpoint</i> base é:
+
+
+E está acompanhada de uma documentação detalhada no <i>Swagger</i>, que pode ser acessada por meio do link: 
+
 ## Tecnologias e Ferramentas ⚙️
 
 <p align="justify"> O projeto foi desenvolvido em Java, utilizando <i>Spring Boot Framework</i>. Foi utilizado Spring Data JPA para implementar a camada de persistência de dados e o banco de dados MySQL.
@@ -17,11 +24,15 @@
 - <i>Dependencias do Spring</i> : DataJPA | Validation |  Starter WEB | DevTools | Lombok | MySQL | Swagger | ModelMapper
 
 **Banco de Dados:** MySQL
+
+**IDE:** IntelliJ IDEA
+
+**Modelagem UML:** ?
 </p>
 
 ## Diagrama UML 📝
 
-## Estrutura 📁
+## Estrutura e Pacotes 🗂️
 
 - configs
 - DTOs
@@ -32,7 +43,9 @@
 - resources
 - services
 
-## Colaboradores 👨‍💻
+## Funcionalidades (JSON?) 📋
+
+## Colaboradores 💻
 
 - <a href="https://github.com/EriksonsSilva"> Erikson Silva </a>
 - <a href="https://github.com/JonathanZapotosczny"> Jonathan Zapotosczny </a>
